@@ -47,14 +47,14 @@ Atualmente estou cursando Ciência da Computação na Faculdade UNINASSAU de Cam
 
 <div align="center">
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=PedroVini09&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=PedroVini09&show_icons=true&theme=github_dark&hide_border=true"
+  height="170"
 />
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVini09&layout=compact&langs_count=8&theme=dark"
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVini09&layout=compact&theme=github_dark&hide_border=true"
+  height="170"
 />
 
 </div>
@@ -65,7 +65,9 @@ Atualmente estou cursando Ciência da Computação na Faculdade UNINASSAU de Cam
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVini09&theme=github-dark&hide_border=true" />
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVini09&theme=github-dark&hide_border=true"
+/>
 
 </div>
 
