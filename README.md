@@ -43,25 +43,7 @@ Atualmente estou cursando **Ciência da Computação na Faculdade UNINASSAU de C
 
 ---
 
-## 🚀 Principais Projetos
 
-### 🧪 FDINIZ_NEW
-
-Site institucional desenvolvido utilizando **ASP.NET Core MVC**, com foco em organização, responsividade, estrutura moderna e integração com serviços de contato.
-
-### ⛪ Maria em Meu Lar
-
-Sistema web voltado à **Pastoral da Juventude**, desenvolvido utilizando **ASP.NET Core MVC e MySQL**.
-
-O projeto conta com páginas institucionais, programação de eventos, galeria, inscrições e organização das missões da Pastoral.
-
-### 🕐 Sistema de Ponto
-
-Sistema de gerenciamento e registro de ponto desenvolvido utilizando **C#, windows forms e MySQL**.
-
-Possui funcionalidades de autenticação, controle de usuários, registro de entrada e saída, gerenciamento de dados e relatórios.
-
----
 
 
 ## 📫 Contato
