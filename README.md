@@ -29,7 +29,7 @@ Sistema web para divulgar as missões da pastoral, receber inscrições e mensag
 
 ## 🔗 Tecnologias
 
-### Especialidade: C# / .NET
+### Principal: C# / .NET
 
 <div align="center">
 
