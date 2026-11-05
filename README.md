@@ -1,7 +1,7 @@
 # Pedro Vinícius
 
 <h3 align="center">
-  Desenvolvedor Back-end .NET | C# • ASP.NET Core • Entity Framework Core • MySQL
+  Desenvolvedor Back-end | Foco em C# / .NET • Python • Java • PHP • JavaScript • SQL
 </h3>
 
 ---
@@ -29,24 +29,61 @@ Sistema web para divulgar as missões da pastoral, receber inscrições e mensag
 
 ## 🔗 Tecnologias
 
-**Principais**
+### Principal: C# / .NET
 
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" title="C#" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" title="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" title="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" title="Visual Studio" />
 
 </div>
 
-- **Back-end:** C#, ASP.NET Core (MVC, Razor Pages, Web API), Entity Framework Core, Windows Forms, xUnit
-- **Bancos de dados:** MySQL, PostgreSQL, Firebird, MongoDB
-- **Ferramentas:** Git, GitHub, GitHub Actions, Docker, Linux, Visual Studio, VS Code
-- **Também já trabalhei com:** HTML, CSS, JavaScript, Python, Java e PHP
+- ASP.NET Core (MVC, Razor Pages, Web API), Entity Framework Core, Windows Forms, xUnit
+- Autenticação JWT, injeção de dependência, arquitetura em camadas, POO
+
+### Outras linguagens
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" title="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3" />
+
+</div>
+
+- **Python:** lógica de programação, scripts e projetos acadêmicos
+- **Java e PHP:** POO e aplicações web em projetos de curso
+- **HTML, CSS e JavaScript:** front-end de sites institucionais e das views dos meus sistemas
+
+### Bancos de dados
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB" />
+
+</div>
+
+- MySQL, PostgreSQL, Firebird e MongoDB: modelagem relacional, consultas SQL, CRUD e integração com EF Core
+
+### Infraestrutura e ferramentas
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" title="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" title="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" title="VS Code" />
+
+</div>
+
+- Linux, redes e suporte técnico (experiência profissional), Docker, Git, GitHub Actions
 
 ---
 
