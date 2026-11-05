@@ -1,7 +1,7 @@
 # Pedro Vinícius
 
 <h3 align="center">
-  Desenvolvedor Back-end | Foco em C# / .NET • Python • Java • PHP • JavaScript • SQL
+  Desenvolvedor Back-end | Foco em C# / .NET • Python • C • C++ • Java • PHP • JavaScript • SQL
 </h3>
 
 ---
@@ -47,6 +47,8 @@ Sistema web para divulgar as missões da pastoral, receber inscrições e mensag
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" title="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" title="PHP" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
@@ -56,6 +58,7 @@ Sistema web para divulgar as missões da pastoral, receber inscrições e mensag
 </div>
 
 - **Python:** lógica de programação, scripts e projetos acadêmicos
+- **C e C++:** lógica de programação, estruturas de dados e fundamentos de computação
 - **Java e PHP:** POO e aplicações web em projetos de curso
 - **HTML, CSS e JavaScript:** front-end de sites institucionais e das views dos meus sistemas
 
