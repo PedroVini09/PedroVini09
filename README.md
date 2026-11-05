@@ -96,7 +96,7 @@ Sistema web para divulgar as missões da pastoral, receber inscrições e mensag
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pedro-vinicius-99aa402a3/">
+<a href="https://www.linkedin.com/in/pedrovinicius--dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
