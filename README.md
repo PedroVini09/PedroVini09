@@ -74,7 +74,7 @@ Sistema web para divulgar as missões da pastoral, receber inscrições e mensag
 
 - MySQL, PostgreSQL, Firebird e MongoDB: modelagem relacional, consultas SQL, CRUD e integração com EF Core
 
-### Infraestrutura e ferramentas
+### Infraestrutura, redes e ferramentas
 
 <div align="center">
 
@@ -83,10 +83,12 @@ Sistema web para divulgar as missões da pastoral, receber inscrições e mensag
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" title="GitHub" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" title="VS Code" />
+<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" height="40" title="MikroTik" />
 
 </div>
 
-- Linux, redes e suporte técnico (experiência profissional), Docker, Git, GitHub Actions
+- **Redes:** configuração e administração de roteadores **MikroTik** (RouterOS), manutenção de redes e suporte técnico (experiência profissional)
+- **Sistemas e ferramentas:** Linux, Docker, Git, GitHub Actions
 
 ---
 
