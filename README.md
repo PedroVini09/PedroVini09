@@ -23,7 +23,7 @@ Sou desenvolvedor back-end .NET em início de carreira, de **Campina Grande (PB)
 ### [Pastoral da Juventude](https://github.com/PedroVini09/Pastoral_Juventude)
 Sistema web para divulgar as missões da pastoral, receber inscrições e mensagens, com painel administrativo para a equipe gerenciar o conteúdo.
 
-**Destaques:** ASP.NET Core MVC · EF Core + MySQL · autenticação JWT em cookie · senhas com hash · 41 testes com xUnit · Docker · CI com GitHub Actions
+**Destaques:** ASP.NET Core MVC · EF Core + MySQL · autenticação JWT em cookie · senhas com hash · 40 testes com xUnit · Docker · CI com GitHub Actions
 
 ---
 
